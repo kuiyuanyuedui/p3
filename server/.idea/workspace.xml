@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c567b8ab-3981-4772-904c-f947e5912568" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../8111005/a3/ttt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../92102801-1/CSE110_Lab6/.idea/CSE110_Lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/.idea/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/components/ReplyItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/components/TwitterItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/components/UserItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/css/FollowPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/css/HomePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/css/LoginPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/css/RegisterPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/css/TwitterItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/css/UserItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/icons/dislike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/icons/dislike_fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/icons/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/icons/like_fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/icons/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/icons/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/pages/FollowPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/pages/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/pages/LoginPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/pages/RegisterPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/pages/TwitterDetailPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/pages/UsersPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P1109-1/finance_server/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P1109-1/finance_server/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P1109-1/finance_server/static/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P1109-1/finance_server/top100banks.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110706/P92110706.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110706_java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110706_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110706_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110706_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110706_java/P92110706_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110706_java/src/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110706_java/src/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/P92110809.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/src/Barista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/src/ClientOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/src/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/src/FoodStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/src/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P92110809/src/WorkingArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PP1106-01/.idea/PP1106-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PP1106-01/in1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PP1106-01/out1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1103-01/WH1103-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1103-01/flowchart2.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1103-01/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/Assigment_22T3V1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/TCPClient3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/TCPServer3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/WH1109-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/Yoda-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/Yoda-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/Yoda-3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/attachments/1.Intro_Networks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/attachments/2.Intro_Networks2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/attachments/3.Intro_Applications (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/attachments/4.Application_Part2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/attachments/5.Transport_Part1_-_Compatibility_Mode.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/attachments/6.Transport_Part2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/attachments/7.Network_Data_Plane.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/credentials.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/cse_edge_device_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/deletion_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/report.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/supersmartwatch-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/supersmartwatch_report.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1109-01/upload_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/main/java/assign251_2/MemAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/main/java/assign251_2/StressConsoleAppender_PatternLayout_Logs500M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/main/java/assign251_2/StressFileAppender_PatternLayout_Logs500M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/main/java/assign251_2/StressMemAppender_LinkedList_PatternLayout_Max10K_Logs500M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/main/java/assign251_2/StressMemAppender_LinkedList_PatternLayout_Max1K_Logs500M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/main/java/assign251_2/StressMemAppender_LinkedList_VelocityLayout_Max1K_Logs500M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/main/java/assign251_2/StressTestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/main/java/assign251_2/VelocityLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WH1113-01/src/test/java/assign251_2/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WWW1103-01/WWW1103-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WZ1114-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WZ1114-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WZ1114-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WZ1114-01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/XL1102-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/answer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XL1102-02/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y1025-01/CUS1156_Project2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Y1025-01/CUS1156_Project2/CUS1156_Project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1106-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1106-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1106-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1106-01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1106-01/cryptocompare_btc_invalid.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../m1106-01/m1106-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled609/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled609/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled609/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled609/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled609/src/SockPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled609/untitled609.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled610/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled610/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled610/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled610/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled610/src/Quiz3CS102Fall2022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled610/untitled610.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled611/untitled611.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/aaa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/p1 - 副本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/p2 - 副本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/p3 - 副本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled612/untitled612.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/ttt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled613/untitled613.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled614/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled614/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled614/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled614/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled614/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled614/untitled614.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0402/src/main/java/BSTHeightSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../0402/src/main/java/BSTHeightSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../92101510-1/server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../92101510-1/server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../92101510-1/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../92101510-1/server/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../92101510-1/server/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../92101510-1/server/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../92101510-1/server/public/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../92101510-1/server/public/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../92102801-1/Lab5_Starter-master/assets/scripts/explore.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../92102801-1/Lab5_Starter-master/assets/scripts/explore.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HKxezY9S9U063u1EVuJWxOBdL1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ueassignments/HL1106-03/server&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ueassignments\HL1106-03\server" />
+      <recent name="D:\ueassignments\HL1106-03\server\public" />
+      <recent name="D:\ueassignments\HL1106-03\server\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c567b8ab-3981-4772-904c-f947e5912568" name="Changes" comment="" />
+      <created>1668047675949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668047675949</updated>
+      <workItem from="1668047677215" duration="5018000" />
+      <workItem from="1668066867408" duration="11497000" />
+      <workItem from="1668235408576" duration="13096000" />
+      <workItem from="1668610091382" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
